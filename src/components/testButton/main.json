@@ -1,6 +1,0 @@
-{
-    "usingComponents": {
-      "vbutton": "/static/vant/button/index",
-      "vpanel": "/static/vant/panel/index"
-    }
-  }

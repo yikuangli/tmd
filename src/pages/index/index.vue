@@ -20,7 +20,7 @@
       <input type="text" class="form-control" v-model.lazy="motto" placeholder="v-model.lazy" />
     </form>
     <a href="/pages/counter/main" class="counter">去往Vuex示例页面</a>
-    <nameCard t = '测试' inside = "你好"></nameCard>
+
   </div>
   
   
@@ -28,7 +28,6 @@
 
 <script>
 import card from '@/components/card'
-import nameCard from '@/components/nameCard/nameCard'
 // import vbutton from '@/../static/vant/button/index'
 
 export default {
@@ -40,8 +39,7 @@ export default {
   },
 
   components: {
-    card,
-    nameCard
+    card
   },
 
   methods: {
