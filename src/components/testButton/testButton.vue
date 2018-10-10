@@ -1,10 +1,12 @@
 <template>
   <div>
-    <p class="card">
+    <p class="testButton">
       {{text}}
-      {{t}}
+      
     </p>
+    <vbutton>yeah</vbutton>
   </div>
+  
 </template>
 
 <script>

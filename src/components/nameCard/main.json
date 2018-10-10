@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+      "vbutton": "/static/vant/button/index",
+      "vpanel": "/static/vant/panel/index",
+      "vrow": "/static/vant/row/index",
+      "vcol": "/static/vant/col/index"
+    }
+  }
